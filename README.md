@@ -11,9 +11,9 @@ Implémentation d'un système inspiré de l'installation [City Lights Orchestra]
     service websocket start
     ```
 
-2. Connecter les ordinateurs *esclaves* sur [cette page](https://ychalier.github.io/rlv/light-orchestra/slave.html)
+2. Connecter les ordinateurs *musiciens* sur [cette page](https://ychalier-rlv.github.io/orchestre-de-lumiere/musicien.html)
 
-3. Connecter l'ordinateur *maître* sur [cette page](https://ychalier.github.io/rlv/light-orchestra/master.html)
+3. Connecter l'ordinateur *chef* sur [cette page](https://ychalier-rlv.github.io/orchestre-de-lumiere/chef.html)
 
 
 Il est possible d'ajouter et de supprimer dynamiquement les terminaux esclaves.
